@@ -1,0 +1,36 @@
+{
+  "name": "rest-api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "rest api using NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustAKing12/Rest-API.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "leonardo lorenzatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustAKing12/Rest-API/issues"
+  },
+  "homepage": "https://github.com/JustAKing12/Rest-API#readme",
+  "devDependencies": {
+    "picocolors": "^1.0.0",
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.18.2",
+    "zod": "3.22.4"
+  }
+}

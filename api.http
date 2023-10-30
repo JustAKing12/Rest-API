@@ -1,0 +1,29 @@
+###Recuperar todas las personas
+GET http://localhost:1999/personas
+
+###Recuperar persona por id
+GET http://localhost:1999/personas/6a360a18-c645-4b47-9a7b-2a71babbf3e0
+
+###Recuperar todas las personas por genero
+GET http://localhost:1999/personas?gender=female
+
+###Crear nueva persona
+POST http://localhost:1999/personas
+Content-Type: application/json
+
+{
+    "name": "Hernan Diaz",
+    "age": 18,
+    "gender": "male",
+    "address": "san martin 204",
+    "email": "Hdiaz@gmail.com",
+    "balance": 1500
+}
+
+###Actualizar persona por id
+PATCH http://localhost:1999/personas/9f32acf8-d98a-4d2f-8bb7-af8e3c57fa95
+Content-Type: application/json
+
+{
+    "age": 14
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "6a360a18-c645-4b47-9a7b-2a71babbf3e0",
+    "name": "Jorgito Lopez",
+    "age": 25,
+    "gender": "male",
+    "address": "ruta 188 km 302",
+    "email": "jlopez@gmail.com",
+    "balance": 1280
+  },
+  {
+    "id": "8fb17ae1-bdfe-45e5-a871-4772d7e526b8",
+    "name": "Valentino Miri",
+    "age": 15,
+    "gender": "male",
+    "address": "ruta 188 km 302",
+    "email": "jlopez@gmail.com",
+    "balance": 1280
+  },
+  {
+    "id": "ccf36f2e-8566-47f7-912d-9f4647250bc7",
+    "name": "Ignacio Palacios",
+    "age": 21,
+    "gender": "female",
+    "address": "ruta 188 km 302",
+    "email": "jlopez@gmail.com",
+    "balance": 1280
+  },
+  {
+    "id": "7d2832f8-c70a-410e-8963-4c93bf36cc9c",
+    "name": "Agustin Borda",
+    "age": 30,
+    "gender": "female",
+    "address": "ruta 188 km 302",
+    "email": "jlopez@gmail.com",
+    "balance": 1280
+  },
+  {
+    "id": "04986507-b3ed-442c-8ae7-4c5df804f896",
+    "name": "Ulises Chenic",
+    "age": 18,
+    "gender": "male",
+    "address": "ruta 188 km 302",
+    "email": "jlopez@gmail.com",
+    "balance": 1280
+  }
+]
